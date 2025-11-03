@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains the information about Iberian and Latin-American Forum group of the Open Geospatial Consortium.
+This repository contains the information about **Iberian and Latin-American Forum** group of the Open Geospatial Consortium.
 Bienvenidos al repositori  del Foro Iberico y Latino-Americano del Open Geospatial Consortium.
 (Welcome to the repository  of the Iberian and Latin-American Forum group of the Open Geospatial Consortium).   
 
@@ -15,14 +15,16 @@ O si eres miembro del OGC sigue este procedimiento:
 - En el panel izquierdo accede a [Iberian and Latin-American Forum](https://agora.ogc.org/c/overview-iberian-and-latin-american-forum/)
 
 
-### **Últimas noticias.**
+### **Últimas noticias**
 
-**Foro Iberico y LatinoAmericano (Iberian and Latin-American Forum ILAF) .**
-[Link text Here](https://link-url-here.org)
+NUEVO: Sesión ILAF el jueves 13 de noviembre en las JIIDE 2025 (XVI edición), en Oviedo.
 
-### **Actividades.**
+**Foro Iberico y LatinoAmericano (Iberian and Latin-American Forum ILAF) **
 
-#### Días de la interoperabilidad.
+
+### **Actividades**
+
+#### Días de la interoperabilidad
 - Madrid (Junio 2022) ILAF y el OGC organizan el día de la interoperabilidad en Junio durante el Members Meeting (Madrid). Más información aquí.
 - Barcelona (Marzo 2015) ILAF y la ACTIG organizan el día de la interoperabilidad en Marzo durante el OGC TC (Barcelona). Más información aquí.
 - Lisboa (Noviembre 2014) ILAF organiza el día de la interoperabilidad en Novembre en JIIDE 2014 (Lisboa). Más información aquí.
