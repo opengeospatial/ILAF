@@ -1,11 +1,12 @@
-# ILAF
+# Iberian and Latin-American Forum (ILAF)
 
 ## About
 
-This repository contains the information about **Iberian and Latin-American Forum** group of the Open Geospatial Consortium.
+This repository contains the information about **Iberian and Latin-American Forum (ILAF)** group of the Open Geospatial Consortium.
 Bienvenidos al repositori  del Foro Iberico y Latino-Americano del Open Geospatial Consortium.
 (Welcome to the repository  of the Iberian and Latin-American Forum group of the Open Geospatial Consortium).   
 
+![ILAF logo](/images/Logo_ILAF.png)
 
 OGC: La localización es lo que cuenta (OGC: Making location count)
 
@@ -17,10 +18,13 @@ O si eres miembro del OGC sigue este procedimiento:
 
 ### **Últimas noticias**
 
-NUEVO: Sesión ILAF el jueves 13 de noviembre en las JIIDE 2025 (XVI edición), en Oviedo.
+NUEVO: Sesión ILAF, el jueves 13 de noviembre en las JIIDE 2025 (XVI edición), en Oviedo.
 
-**Foro Iberico y LatinoAmericano (Iberian and Latin-American Forum ILAF) **
+### **Foro Iberico y LatinoAmericano (Iberian and Latin-American Forum ILAF)**
 
+* ¿Qué es el Foro Iberico y Latinoamericano del OGC (ILAF)?
+* Actividades y reuniones ILAF
+* Lista de miembros de ILAF
 
 ### **Actividades**
 
