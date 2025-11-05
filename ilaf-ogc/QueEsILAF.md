@@ -10,5 +10,6 @@ OGC ILAF se postula como:
 
 ![OGC team](Unete_hoy.jpg)
 
-Ni más ni menos. Ver [*Charter*](Charter_OGC_Iberian_and_Latin-American_Forum_v5.doc) aprobado por OGC en verano de 2010
+Ni más ni menos. Ver [*Charter*](Charter_OGC_Iberian_and_Latin-American_Forum_v5.doc) aprobado por OGC en verano de 2010.
+
 Ver [Folleto promocional](Leaflet_ILAF.pptx)
