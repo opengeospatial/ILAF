@@ -10,7 +10,7 @@ Bienvenidos al repositori  del Foro Iberico y Latino-Americano del Open Geospati
 
 OGC: La localización es lo que cuenta (OGC: Making location count)
 
-Suscribete a la lista del forum: ila.forum@lists.ogc.org y síguenos en twitter @ILAF_OGC.
+Suscribete a la lista del forum: ila.forum@lists.ogc.org y síguenos en X (Twitter) [@ILAF_OGC](https://x.com/ILAF_OGC).
 O si eres miembro del OGC sigue este procedimiento:
 - Log-in en https://agora.ogc.org/
 - En el panel izquierdo accede a [Iberian and Latin-American Forum](https://agora.ogc.org/c/overview-iberian-and-latin-american-forum/)
@@ -18,11 +18,11 @@ O si eres miembro del OGC sigue este procedimiento:
 
 ### **Últimas noticias**
 
-NUEVO: Sesión ILAF, el jueves 13 de noviembre en las JIIDE 2025 (XVI edición), en Oviedo.
+NUEVO: Sesión ILAF, el jueves 13 de noviembre en las [JIIDE 2025 (XVI edición)](https://www.jiide.org/web/portal/inicio), en Oviedo. 
 
 ### **Foro Iberico y LatinoAmericano (Iberian and Latin-American Forum ILAF)**
 
-* ¿Qué es el Foro Iberico y Latinoamericano del OGC (ILAF)?
+* ¿[Qué es](ilaf-ogc/QueEsILAF.md) el Foro Iberico y Latinoamericano del OGC (ILAF)?
 * Actividades y reuniones ILAF
 * Lista de miembros de ILAF
 
