@@ -23,8 +23,8 @@ NUEVO: Sesión ILAF, el jueves 13 de noviembre en las [JIIDE 2025 (XVI edición)
 ### **Foro Iberico y LatinoAmericano (Iberian and Latin-American Forum ILAF)**
 
 * ¿[Qué es](ilaf-ogc/QueEsILAF.md) el Foro Iberico y Latinoamericano del OGC (ILAF)?
-* Actividades y reuniones ILAF
-* Lista de miembros de ILAF
+* [Actividades y reuniones](activities/) ILAF
+* Lista de [miembros](ilaf-ogc/MembersOfILAF.md) de ILAF
 
 ### **Actividades**
 
@@ -51,3 +51,10 @@ Toledo 2013 (JIIDE)
 - Lisboa 2010 (JIIDE)
 - Barcelona 2010 (FOSS4G)
 - Murcia 2009 (JIDEE)
+
+#### Otras Actividades
+Organización del la primera reunión de 2015 del TC OGC en Barcelona
+
+### [Debates](DiscussionTopics.md)
+
+### Noticias
