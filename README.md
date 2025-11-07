@@ -55,6 +55,6 @@ Toledo 2013 (JIIDE)
 #### Otras Actividades
 Organización del la primera reunión de 2015 del TC OGC en Barcelona
 
-### [Debates](DiscussionTopics.md)
+### [Debates](activities/DiscussionTopics.md)
 
 ### Noticias
