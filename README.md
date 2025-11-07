@@ -18,7 +18,7 @@ O si eres miembro del OGC sigue este procedimiento:
 
 ### **Últimas noticias**
 
-NUEVO: Sesión ILAF, el jueves 13 de noviembre en las [JIIDE 2025 (XVI edición)](https://www.jiide.org/web/portal/inicio), en Oviedo. 
+NUEVO: [Sesión ILAF](activities/meeting/MeetingILAFNovember2025.md), el jueves 13 de noviembre en las [JIIDE 2025 (XVI edición)](https://www.jiide.org/web/portal/inicio), en Oviedo.
 
 ### **Foro Iberico y LatinoAmericano (Iberian and Latin-American Forum ILAF)**
 
