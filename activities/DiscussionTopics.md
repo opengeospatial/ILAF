@@ -48,3 +48,7 @@
     El Initial Operating capability Task Force (IOC TF) ha actualizado esta documentación técnica y ha aprobado la versión 3.0 como una versión estable de estos documentos. Los dos se pueden encontrar en la web de INSPIRE http://inspire.jrc.ec.europa.eu/index.cfm/pageid/5. Hay varios cambios significativos, principalmente:
     la forma en que están codificados los metadatos INSPIRE de servicios de Localización y Visualización en la "Get Discovery/View Service metadata response"
     la forma en que está codificado el uso del lenguaje para cumplir con los requerimientos exigidos en los documentos de Servicios de Red.</p>
+
+
+   ### OWS context y INSPIRE download services.
+   Véase el siguiente [enlace](OWScontextINSPIREdownloadservices.md)
