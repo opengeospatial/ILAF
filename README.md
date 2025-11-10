@@ -36,7 +36,7 @@ NUEVO: [Sesión ILAF](activities/meeting/MeetingILAFNovember2025.md), el jueves 
 - Barcelona (Marzo 2011) ILAF organiza el día de la interoperabilidad en GlobalGEO 2011 el dia 17 de Marzo de 2011 en Palacio 6 de Fira de Barcelona. Recinto de Montjuïc. Más información aquí. Presentación aquí
 
 #### Reuniones
-- Oviedo 2025: Noviembre durant las JIIDE (XVI edición). Mas información aquí
+- Oviedo 2025: Noviembre durant las JIIDE (XVI edición). Mas información [aquí](activities/meeting/MeetingILAFNovember2025.md)
 - Mérida (Yucatán-México) durante el 132º OGC Member Meeting, Junio 2025. Más información aquí
 (on-line) Octubre 2021. Más información aquí
 - Cáceres 2019: Octubre durante las JIIDE (Cáceres). Más información aquí.
@@ -57,4 +57,4 @@ Organización del la primera reunión de 2015 del TC OGC en Barcelona
 
 ### [Debates](activities/DiscussionTopics.md)
 
-### Noticias
+### [Noticias](ilaf-ogc/OldNewsOGC.md)
