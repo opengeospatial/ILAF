@@ -3,8 +3,10 @@
 ## About
 
 This repository contains the information about **Iberian and Latin-American Forum (ILAF)** group of the Open Geospatial Consortium.
+
 Bienvenidos al repositori  del Foro Iberico y Latino-Americano del Open Geospatial Consortium.
-(Welcome to the repository  of the Iberian and Latin-American Forum group of the Open Geospatial Consortium).   
+
+Welcome to the repository  of the Iberian and Latin-American Forum group of the Open Geospatial Consortium.   
 
 ![ILAF logo](/images/Logo_ILAF.png)
 
@@ -38,7 +40,7 @@ NUEVO: [Sesión ILAF](activities/meeting/MeetingILAFNovember2025.md), el jueves 
 #### Reuniones
 - Oviedo 2025: Noviembre durant las JIIDE (XVI edición). Mas información [aquí](activities/meeting/MeetingILAFNovember2025.md)
 - Mérida (Yucatán-México) durante el 132º OGC Member Meeting, Junio 2025. Más información [aquí](activities/meeting/MeetingILAFJune2025.md)
--(on-line) Octubre 2021. Más información aquí
+-Reunión (on-line) Octubre 2021. Más información [aquí]((activities/meeting/MeetingILAFOctober2021.md))
 - Cáceres 2019: Octubre durante las JIIDE (Cáceres). Más información aquí.
  Menorca 2018: Octubre durante las JIIDE (Mallorca). Más información aquí.
 - Lisboa 2017: Septiembre durante las JIIDE (Lisboa). Más información aquí.
@@ -57,4 +59,4 @@ Organización del la primera reunión de 2015 del TC OGC en Barcelona
 
 ### [Debates](activities/DiscussionTopics.md)
 
-### [Noticias](ilaf-ogc/OldNewsOGC.md)
+### [Noticias anteriores](ilaf-ogc/OldNewsOGC.md)
