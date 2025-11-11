@@ -14,9 +14,10 @@ Lugar:
 También hay la posibilidad de asistir virtualmente https://www.jiide.org/web/portal/sesiones-virtuales.   
 [Programa](https://www.idee.es/resources/presentaciones/JIIDE25/Retransmision/13_Sala2.pdf) Sala 2.
 
-### Tema: **Implementación de las OGC API en los territorios de habla hispana y portuguesa.** 
+#### Tema: **Implementación de las OGC API en los territorios de habla hispana y portuguesa.** 
  
-Agenda
+#### Agenda
+
 + Bienvenida al ILAF. **OGC API’s dentro del contexto del ILAF** por Joan Masó y Núria Julià [UAB-CREAF] (10 min)
 + IDE Américas: **Evaluación inteligente de madurez geoespacial mediante servicios OGC** por Ariel Anthieni [OSGeo / KAN Territory & IT] (15 min)
 + **OGC API's en el IGN y el CNIG** por Cecilia Poyatos Hernández [CNIG] (10 min)
