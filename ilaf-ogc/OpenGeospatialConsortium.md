@@ -3,7 +3,7 @@ Open Geospatial Consortium
 
 - ¿[Qué es el Open Geospatial Consortium](ogc-info/QueEsOpenGeospatial.md)?
 - ¿[Qué es la inteoperabilidad](ogc-info/QueEsLaInteroperabilidad.md)?
-- [Estándares OGC](ogc_info/ListaEstandaresOGC.md) (incluye fichas descriptivas en español de muchos los estándares más relevantes)
+- [Estándares OGC](ogc-info/ListaEstandaresOGC.md) (incluye fichas descriptivas en español de muchos los estándares más relevantes)
 - ¿Cuales son los [beneficios](ogc-info/BenficiosDeEstarEnOGC.md) de pertenecer al OGC?
     - Aproveche las redes de contactos profesionales
     - Incorpore la visión de su empresa en los proyectos de normas
