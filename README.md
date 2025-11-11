@@ -38,7 +38,7 @@ NUEVO: [Sesión ILAF](activities/meeting/MeetingILAFNovember2025.md), el jueves 
 #### Reuniones
 - Oviedo 2025: Noviembre durant las JIIDE (XVI edición). Mas información [aquí](activities/meeting/MeetingILAFNovember2025.md)
 - Mérida (Yucatán-México) durante el 132º OGC Member Meeting, Junio 2025. Más información [aquí](activities/meeting/MeetingILAFJune2025.md)
-(on-line) Octubre 2021. Más información aquí
+-(on-line) Octubre 2021. Más información aquí
 - Cáceres 2019: Octubre durante las JIIDE (Cáceres). Más información aquí.
  Menorca 2018: Octubre durante las JIIDE (Mallorca). Más información aquí.
 - Lisboa 2017: Septiembre durante las JIIDE (Lisboa). Más información aquí.
