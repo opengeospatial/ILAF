@@ -28,6 +28,8 @@ NUEVO: [Sesión ILAF](activities/meeting/MeetingILAFNovember2025.md), el jueves 
 * [Actividades y reuniones](activities/) ILAF
 * Lista de [miembros](ilaf-ogc/MembersOfILAF.md) de ILAF
 
+### **[Open Geospatial Consortium](ilaf-ogc/OpenGeospatialConsortium.md)**
+
 ### **Actividades**
 
 #### Días de la interoperabilidad
@@ -53,8 +55,6 @@ NUEVO: [Sesión ILAF](activities/meeting/MeetingILAFNovember2025.md), el jueves 
 - Lisboa 2010 (JIIDE)
 - Barcelona 2010 (FOSS4G)
 - Murcia 2009 (JIDEE)
-
-
 
 ### [Debates](activities/DiscussionTopics.md)
 
