@@ -1,11 +1,11 @@
 
 ### Reunión ILAF 
 
-Próxima reunión ILAF el viernes 22 de Octubre en la próxima reunión del Grupo de Trabajo de la IDEE (formato virtual), día 22 de octubre de 10:00 a 12:15 de la mañana.
+Próxima reunión ILAF, el viernes 22 de octubre en la próxima reunión del Grupo de Trabajo de la IDEE (formato virtual), día 22 de octubre de 10:00 a 12:15 de la mañana.
 
 ### Agenda
 
-|  |  |  |
+| Horario | Presentación | Ponente |
 |--------------|--------------|--------------|
 | 10:00-10:05 |Apertura y aprobación, si procede, del acta de la reunión anterior.       |       |
 | 10:05-10:15 |Evaluación de INSPIRE       | Emilio López (CNIG) |
