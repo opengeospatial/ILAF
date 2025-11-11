@@ -21,7 +21,7 @@ También hay la posibilidad de asistir virtualmente https://www.jiide.org/web/po
 | Presentación  | Ponente| 
 |--------------|--------------|
 | Bienvenida al ILAF. **OGC API’s dentro del contexto del ILAF** |Joan Masó y Núria Julià [UAB-CREAF] (10 min)|
-| IDE Américas: **Evaluación inteligente de madurez geoespacial mediante servicios OGC**       |[OSGeo / KAN Territory & IT] (15 min)|
+| IDE Américas: **Evaluación inteligente de madurez geoespacial mediante servicios OGC**       |Ariel Anthieni [OSGeo / KAN Territory & IT] (15 min)|
 | **OGC API's en el IGN y el CNIG**       |Cecilia Poyatos Hernández [CNIG] (10 min)|
 |Ronda de preguntas y comentarios       |(10 min)|
 
