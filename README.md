@@ -13,9 +13,10 @@ Welcome to the repository  of the Iberian and Latin-American Forum group of the 
 OGC: La localización es lo que cuenta (OGC: Making location count)
 
 Suscribete a la lista del forum: ila.forum@lists.ogc.org y síguenos en X (Twitter) [@ILAF_OGC](https://x.com/ILAF_OGC).
-O si eres miembro del OGC sigue este procedimiento:
+
+Si eres miembro del OGC sigue este procedimiento:
 - Log-in en https://agora.ogc.org/
-- En el panel izquierdo accede a [Iberian and Latin-American Forum](https://agora.ogc.org/c/overview-iberian-and-latin-american-forum/)
+- En el panel izquierdo accede al enlace [Iberian and Latin-American Forum](https://agora.ogc.org/c/overview-iberian-and-latin-american-forum/)
 
 
 ### **Últimas noticias**
