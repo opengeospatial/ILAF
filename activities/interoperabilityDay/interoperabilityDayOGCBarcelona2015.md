@@ -2,8 +2,6 @@
 
 Día 13 de marzo de 2015
 
-hora	titulo	ponente
-
 09:00h	Bienvenida del ICGC	Jaume Miranda, ICGC
 
 09:15h	Bienvenida desde ILAF	Athina Trakas, OGC
