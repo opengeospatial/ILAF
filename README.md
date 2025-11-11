@@ -45,7 +45,7 @@ NUEVO: [Sesión ILAF](activities/meeting/MeetingILAFNovember2025.md), el jueves 
  Menorca 2018: Octubre durante las JIIDE (Mallorca). Más información aquí.
 - Lisboa 2017: Septiembre durante las JIIDE (Lisboa). Más información aquí.
 - Barcelona 2016: Septiembre durante las JIIDE y INSPIRE 2016 (Barcelona). Más información aquí.
-- Barcelona (Marzo 2015) junto con el día de la interoperabilidad. Más información [aquí](activities/interoperabilityDay/TCMeetingOGCMarch2015.md)
+- Barcelona (Marzo 2015) Primera reunión de 2015 del TC OGC en Barcelona junto con el día de la interoperabilidad. Más información [aquí](activities/interoperabilityDay/TCMeetingOGCMarch2015.md)
 - Lisboa (Noviembre 2014) junto con el día de la interoperabilidad. Más información aquí
 - Toledo 2013 (JIIDE)
 - Madrid (Octuber 2012) junto con el día de la interoperabilidad. Más información aquí
@@ -54,8 +54,7 @@ NUEVO: [Sesión ILAF](activities/meeting/MeetingILAFNovember2025.md), el jueves 
 - Barcelona 2010 (FOSS4G)
 - Murcia 2009 (JIDEE)
 
-#### Otras Actividades
-Organización del la primera reunión de 2015 del TC OGC en Barcelona
+
 
 ### [Debates](activities/DiscussionTopics.md)
 
