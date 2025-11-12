@@ -1,63 +1,123 @@
 ### Notas de prensa del OGC
 
 18/01/16 OGC pide la revisión de los candidatos a estándar Geospatial User Feedback Conceptual Model y XML Encoding
+
 07/01/16 Discrete Global Grid Systems (DGGS) Core Standard disponible para revisión
+
 21/12/15 OGC pide la revisión del estándar Coverage Implementation Schema (CIS)
+
 04/11/15 OGC solicita la participación en un Experimento de Interoperabilidad: GeoPackage (GPKG) Elevation Extension Interoperability Experiment (GPKG-EE IE)
+
 24/08/15 OGC solicita comentarios sobre el documento fundacional del grupo OWS Common Security Standards Working Group
+
 19/08/15 OGC pide la revisión del estándar Timeseries Profile of Observations and Measurements
+
 24/07/15 OGC solicita aportaciones para extensiones del estándar Geopackage
+
 05/07/15 Extensiones Transaction y JPEG2000/JPIP Coverage del estándar Web Coverage Service disponible para comentarios
+
 25/06/15 OGC anuncia la formación del grupo Hydrologic Features Standards Working Group
+
 22/06/15 SensorThings API standard for Internet of Things disponible para comentarios
+
 08/05/15 Llamada a la participación en el experimento de Interoperabilidad Soil Data
+
 24/04/15 Llamada a la participación del Major Sensor IoT interoperability pilot project
+
 10/04/15 WaterML 2.0 Part 2: Ratings, Gaugings and Sections disponible para comentarios
+
 06/03/15 CF-netCDF 3.0 usando el esquema de aplicación GML Applications Schema Standard disponibles para comentarios
+
 26/02/15 OGC aprueba el documento Smart Cities Spatial Information Framework white paper
+
 02/02/15 Llamada a la Participación para el AIP-8
+
 26/01/15 OGC pide la revisión del modelo conceptual LandInfra
+
 23/01/15 OGC invita a participar en el workshop Crisis Management ICT
+
 21/01/15 OGC ha adoptado IndoorGML como estándar de codificación
-21/11/14 Earth Observation Metadata Profile of the OGC Observations and Measurements (O&M) Standard disponible para comentarios
+
+21/11/14 Earth Observation Metadata Profile of the OGC Observations and Measurements (O&M) 
+
+Standard disponible para comentarios
+
 20/11/14 European Data Modelling Workshop
+
 21/10/14 OGC anuncia la formación de grupo de trabajo enfocado a la representación de observaciones de series temporales
+
 15/09/14 Última llamada para participar en el patrocinio del testbed OWS-11
+
 24/07/14 OGC pide la revisión del estándar de Moving Feature Encoding
+
 21/07/14 GML Application Schema-Coverages-JPEG2000 disponible para comentarios
+
 17/07/14 OGC anuncia la formación del grupo Geospatial User Feedback Standards Working Group
+
 10/07/14 Sigue abierta la convocatoria para el patrocinio del tesbed OWS-11
+
 03/07/14 Nuevo grupo temático Urban Planning Domain Working Group DWG
+
 03/07/14 Llamada para las presentaciones - OGC Academic Summit 2014
+
 01/07/14 OGC solicita comentarios del documento fundacional del grupo Agriculture Domain Working Group
+
 24/06/14 Llamada a la participación en el experimento de Interoperabilidad CityGML Data Quality
+
 10/06/14 El CREAF elabora un documento de buenas prácticas para utilizar WMTS
+
 06/06/14 OGC solicita comentarios sobre el documento fundacional del nuevo grupo GeoTIFF SWG
+
 06/06/14 Nuevo grupo de trabajo Mobile Location Services Domain Working Group (DWG)
+
 22/05/14 Catalogue Service 3.0 disponible para comentarios
+
 19/05/14 OGC pide la participación pública para el desarrollo de CityGML 3.0
+
 05/05/14 Webinars del Testbed _OWS-10
+
 17/03/14 OGC anuncia la formación del grupo de trabajo Discrete Global Grid Systems Standards Working Group (SWG)
+
 04/03/14 OGC Academic Summit 2014
+
 25/02/14 Seminario Web sobre GeoPackage
+
 13/02/14 GeoPackage adoptado estándar OGC
+
 05/02/14 Seminario web Compliance and Interoperability Testing Initiative (CITE)
+
 30/01/14 Oferta de empleo OGC
+
 12/12/13 Nuevo grupo de trabajo OGC Point of Interest (POI)
+
 20/11/13 Seminario web Compliance and Interoperability Testing Initiative (CITE)
+
 18/11/13 OWS Concept Model y el OWS Context ATOM Encoding adoptados como estándares OGC
+
 31/10/13 Propuesta de actualización de la ISO 19107:2003 Información geográfica- Esquema Espacial
+
 02/10/13 OGC pide la revisión del estándar WKT Coordinate Reference Systems
+
 16/09/13 CEN/TC 287 and OGC joint workshop: Bringing GI standards making organizations together
+
 04/09/13 OGC solicita aportaciones sobre prácticas recomendadas para planes de respuesta Common Operating Picture ante vertidos de petróleo.
+
 26/07/13 Disponible para comentarios la extensión Processing del estándar Web Coverage Service
+
 17/07/13 Llamada a la participación del Major Interoperability Testbed
+
 09/07/13 OGC pide la revisión del OWS Context Encoding Standard
+
 02/07/13 Documento de discusión del estándar WaterML 2.0- Part 2
+
 04/06/13 Disponible para comentarios el documento fundacional del nuevo grupo de trabajo POI SWG
+
 14/05/13 Webinar sobre el grupo de trabajo OGC Health DWG
+
 02/05/13 Disponible la segunda versión del estándar Open Modelling Interface
+
 31/03/13 Webinar sobre servicios OGC en la nube el 4 de abril
+
 13/04/13 Extensión Coordinates Reference System (CRS) del estándar Web Coverage Service (WCS) disponible para comentarios
 
 - 18/01/16 OGC pide la revisión de los candidatos a estándar Geospatial User Feedback Conceptual Model y XML Encoding
@@ -76,7 +136,7 @@ Para más información véase http://www.opengeospatial.org/pressroom/pressrelea
 
 - 21/12/15 OGC pide la revisión del estándar Coverage Implementation Schema (CIS)
 OGC ha publicado la documentación del estándar Coverage Implementation Schema (abreviado CIS) para recabar sugerencias y comentarios. El estándar propuesto complementa OGC Abstract Topic 6 Standard (que es idéntico a la norma ISO 19123) con un modelo de cobertura concreto. ISO ha expresado el interés para adoptar CIS 1.1 como ISO 19123-2.
-El estándar Coverage Implementation Schema versión 1.1 es sucesor retrocompatible de GML 3.2.1 Application Schema Coverages versión 1.0 (abreviado GMLCOV). Incorporando todos los elementos de GMLCOV 1.0, CIS 1.1 añade nuevas capacidades de modelización, como división de coberturas, interpolación, pares geometría/valor, soporte del estándar SensorML, y nube de puntos. Además, un modelo general para todas las combinaciones de mallas no regulares, que incluye tipos de coberturas GML 3.3 como casos especiales.
+El estándar Coverage Implementation Schema versión 1.1 es sucesor retrocompatible de GML 3.2.1 Application Schema Coverages versión 1.0 (abreviado GMLCOV). Incorporando todos los elementos de GMLCOV 1.0, CIS 1.1 añade nuevas capacidades de modelización, como división de coberturas, interpolación, pares geometría/valor, soporte del estándar SensorML, y nube de puntos. Además, un modelo general para todas las combinaciones de mallas no regulares, que incluye tipos de coberturas GML 3.3 como casos especiales.
 OGC Abstract Topic 6 Suite define un modelo de cobertura abstracto. Las coberturas representan colecciones homogéneas de valores localizadas en el espacio/tiempo, como sensores espacio-temporales, imágenes, simulación y datos estadísticos. Ejemplos comunes incluyen series temporales 1-D, imágenes 2D, imágenes de series temporales 3D o modelos espaciales, así como datos sobre climatología y oceanografía en 4D. Generalmente, las coberturas incluyen rejillas regulares e irregulares multi-dimensionales, nubes de puntos y mallas.
 Coverage Implementation Schema complementa OGC Abstract Topic 6 con una definición de estructura de cobertura concreta de un subconjunto de modelos de coberturas en OGC Abstract Topic, independientemente del formato de codificación de los datos de las implementaciones. CIS permite un rango amplio de implementaciones interoperables.
 Las coberturas pueden ser codificadas en formatos (como GML, JSON, GeoTIFF o CF-netCDF) y pueden ser divididas, por ejemplo por una representación de tiempo intercalado. Las coberturas son independientes de las definiciones de servicio y por lo tanto son accesibles a través de una variedad de tipos de servicios OGC, como el Web Coverage Service (WCS). La estructura de cobertura puede servir un amplio rango de dominios de aplicación de coberturas, lo que contribuye a la armonización y la interoperabilidad entre y a través de estos dominios.
@@ -119,7 +179,7 @@ Para ello, GPKG SWG ha publicado una encuesta https://docs.google.com/forms/d/1Q
 - 05/07/15 Extensiones Transaction y JPEG2000/JPIP Coverage del estándar Web Coverage Service disponible para comentarios
 Recientemente, OGC ha publicado la documentación de dos nuevas extensiones del estándar Servicio Web de Coberturas (Web Coverage Service, WCS) versión 2.0 para recabar sugerencias y comentarios.
 Transaction operation Extension con esta extensión el estándar permitirá añadir, actualizar y eliminar coberturas. Con la implementación de esta extensión, los usuarios y sistemas de estos servicios ganarán versatilidad para acceder a la información espacial de una amplia variedad de fuentes. Dicho acceso también será útil en manejo de información geoespacial y aplicaciones big data. Puede consultarse la documentación en el siguiente enlace: http://www.opengeospatial.org/standards/requests/135. El plazo para hacer propuestas finaliza el próximo día 25 de julio.
-JPEG2000/JPIP Coverage Encoding Extension  abreviado como JPEG2000/JPIP-Coverage, amplia la segunda versión del estándar WCS para añadir soporte para solicitar y obtener coberturas en formato JPEG 2000 (JP2), tanto en una imagen estática como en el protocolo JPIP, codificados usando el formato JP2 o el estándar OGC GML in JPEG 2000 Encoding. La documentación está disponible en el siguiente enlace: http://www.opengeospatial.org/standards/requests/136. El plazo para hacer propuestas finaliza el próximo día 1 de agosto.
+JPEG2000/JPIP Coverage Encoding Extension  abreviado como JPEG2000/JPIP-Coverage, amplia la segunda versión del estándar WCS para añadir soporte para solicitar y obtener coberturas en formato JPEG 2000 (JP2), tanto en una imagen estática como en el protocolo JPIP, codificados usando el formato JP2 o el estándar OGC GML in JPEG 2000 Encoding. La documentación está disponible en el siguiente enlace: http://www.opengeospatial.org/standards/requests/136. El plazo para hacer propuestas finaliza el próximo día 1 de agosto.
 
 - 25/06/15 OGC anuncia la formación del grupo Hydrologic Features Standards Working Group
 Open Geospatial Consortium solicita comentarios del documento fundacional de un nuevo grupo Hydrologic Features HY_Features Standards Working Group (SWG) con el objetivo de progresar el modelo HY_FEATURES al estado de un estándar OGC para una identificación común, estable y la referencia de elementos hidrológicos.
@@ -257,7 +317,7 @@ Actualmente se abordan las siguientes líneas de trabajo:
 Ingeniería de interfaz y codificación
 REST y SOAP para el conjunto de servicios de estándares OGC
 Uso de JSON y GeoJSON a través de estándares OGC
-Seguridad  estándares basados en soluciones para la implementación de capacidades de autenticación,autorización, control de acceso y auditoría para el conjunto de servicios de estándares OGC.
+Seguridad  estándares basados en soluciones para la implementación de capacidades de autenticación,autorización, control de acceso y auditoría para el conjunto de servicios de estándares OGC.
 Servicios Web OGC con semántica: mediación Semántica entre vocabularios y Ontologías: Linked Data, procedencia de los datos.
 El tema central de OWS-11 es el cambio climático y el caso de uso específico trata sobre población desplazada debido a inundaciones en zonas costeras. Para solucionar este caso se requiere:
 - Servicios basados en estándares OGC que soporten envío de notificaciones en situaciones de crisis, análisis predictivo, acceso rápido a la información y acceso a los medios sociales.
@@ -511,9 +571,9 @@ Esta nueva propuesta NWIP ha sido preparada por el grupo de trabajo OGC Simple F
 La fecha límite para participar es el próximo 28 de noviembre. Para más información véase el siguiente enlace: http://www.opengeospatial.org/standards/requests/113
 
 - 02/10/13 OGC pide la revisión del estándar WKT Coordinate Reference Systems
-Open Geospatial Consortium pide la revisión del documento candidato a estándar OGC: Geograhic Information  Well Know Text (WKT) para sistemas de referencia de coordenadas.
+Open Geospatial Consortium pide la revisión del documento candidato a estándar OGC: Geograhic Information  Well Know Text (WKT) para sistemas de referencia de coordenadas.
 OGC Well Know Text es un formato de representación de elementos geométricos que ofrece una representación legible des de cualquier editor de textos y de fácil interpretación. También se puede utilizar para la descripción de elementos críticos de definiciones de sistemas de referencia de coordenadas (CRS).
-WKT se define en el estándar OGC Geographic Information Simple Feature Access Part1: Commom architecture (ISO 19125-1:2004). Y ha sido extendido a otros estándares, como resultado, hay algunas inconsistencias en como WKT CRS se define en varios estándares OGC e ISO.
+WKT se define en el estándar OGC Geographic Information Simple Feature Access Part1: Commom architecture (ISO 19125-1:2004). Y ha sido extendido a otros estándares, como resultado, hay algunas inconsistencias en como WKT CRS se define en varios estándares OGC e ISO.
 Este documento proporciona una versión actualizada de la representación de geometrías WKT que sigue las disposiciones de la especificación Abstracta OGC Topic 2 (ISO 19111:2007) Spatial Referencing by coordinates . Extiende la anterior definición WKT para permitir la descripción de transformaciones de coordenadas, se define la estructura y el contenido de well known text strings, pero no prescribe como las implementaciones deberían leer o escribir estos strings.
 El documento puede descargarse en el siguiente enlace: http://www.opengeospatial.org/standards/requests/112. También hay disponible un prototipo de evaluación: https://github.com/Esri/ogc-crs-wkt-parser.
 Se aceptan comentarios hasta el 1 de noviembre, pero mejor antes del 26 de octubre. Este documento ha sido presentado al TC211 como un Committe Draft para votación como un Proyecto de Norma Internacional (documento N3596). Los comentarios recibidos formarán parte de OGC Request for Comments (RFC) del 26 de octubre que se tendrán en cuenta en votación ISO.
@@ -536,7 +596,7 @@ Formatos, medios y métodos para distribuir la información COP a organizaciones
 La documentación completa de la solicitud RFI está disponible en: http://www.opengeospatial.org/standards/requests/109.
 
 - 03/09/13 Seminario web sobre Geo4NIEM
-Open Geospatial Consortium y los promotores de la iniciativa Geo4NIEM: Program Manager Information Sharing Environment (PM-ISE) y National Information Exchange Model Program Management Office (NIEM PMO) invitan a participar en un seminario web sobre la iniciativa Geo4NIEM. Se mostrará nuevas posibilidades de datos geospaciales mediante el modelo National Information Exchange Model mediante (NIEM).
+Open Geospatial Consortium y los promotores de la iniciativa Geo4NIEM: Program Manager Information Sharing Environment (PM-ISE) y National Information Exchange Model Program Management Office (NIEM PMO) invitan a participar en un seminario web sobre la iniciativa Geo4NIEM. Se mostrará nuevas posibilidades de datos geospaciales mediante el modelo National Information Exchange Model mediante (NIEM).
 Webinar: OGC Geo4NIEM Demo
 Fecha: 19 de septiembre 2013
 Hora: 14:30-15:30 GMT

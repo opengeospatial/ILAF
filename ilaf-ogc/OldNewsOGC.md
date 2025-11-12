@@ -12,3 +12,5 @@ Josep Lluís Colomer, Subdirector Técnico del Institut Cartogràfic de Cataluny
 - [OGC ILAF nuevo SDIC de INSPIRE](SDICInspire.md)
 
 - Presentación y acta de la reunión JIIDE 2010 y [vídeo](http://www.youtube.com/watch?v=MZM9v274w-M) sobre ILAF OGC.
+
+- [El rincón de ILAF OGC](RinconILAF.md)
