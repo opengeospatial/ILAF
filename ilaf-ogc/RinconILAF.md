@@ -28,8 +28,8 @@ Leer las siguientes ediciones del Rincón de ILAF en http://external.opengeospat
 
 Se realizarón boletines del 2012 al 2017.
 ![ediciones](rinconILAF/EdicionesRinconILAF.png)
-![ediciones](rinconILAF/EdicionesRinconILAF_2.png)
-![ediciones](rinconILAF/EdicionesRinconILAF_3.png)
+![ediciones_2](rinconILAF/EdicionesRinconILAF_2.png)
+![ediciones_3](rinconILAF/EdicionesRinconILAF_3.png)
 
 Ejemplo:
 Abril 2015 [español](rinconILAF/Rincon_ILAF_Abril15_ES.pdf) y [portugués](rinconILAF/Rincon_ILAF_Abril15_PT.pdf)
