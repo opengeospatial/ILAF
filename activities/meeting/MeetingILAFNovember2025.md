@@ -16,9 +16,9 @@ También hay la posibilidad de asistir virtualmente https://www.jiide.org/web/po
 
 #### Tema: **Implementación de las OGC API en los territorios de habla hispana y portuguesa.** 
  
-#### Agenda
+Agenda
 
-| Horario | Presentación  | Ponente| 
+| Horario    | Presentación    | Ponente   | 
 |--------------|--------------|--------------|
 |16:00-16:10  | Bienvenida al ILAF. **OGC API’s dentro del contexto del ILAF** |Joan Masó y Núria Julià [UAB-CREAF]|
 |16:10-16:25  | **IDE Américas: Evaluación inteligente de madurez geoespacial mediante servicios OGC**       |Ariel Anthieni [OSGeo / KAN Territory & IT]  |
