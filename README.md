@@ -1,7 +1,5 @@
 # Iberian and Latin-American Forum (ILAF)
 
-## About
-
 This repository contains the information about **Iberian and Latin-American Forum (ILAF)** group of the Open Geospatial Consortium.
 
 Bienvenidos al repositori  del Foro Iberico y Latino-Americano del Open Geospatial Consortium.
@@ -36,8 +34,8 @@ NUEVO: [Sesión ILAF](activities/meeting/MeetingILAFNovember2025.md), el jueves 
 #### Días de la interoperabilidad
 - Madrid (Junio 2022) ILAF y el OGC organizan el día de la interoperabilidad en Junio durante el Members Meeting (Madrid). Más información [aquí](activities/interoperabilityDay/interoperabilityDayOGCMadrid2022.md).
 - Barcelona (Marzo 2015) ILAF y la ACTIG organizan el día de la interoperabilidad en Marzo durante el OGC TC (Barcelona). Más información [aquí](activities/interoperabilityDay/interoperabilityDayOGCBarcelona2015.md).
-- Lisboa (Noviembre 2014) ILAF organiza el día de la interoperabilidad en Novembre en JIIDE 2014 (Lisboa). Más información aquí.
-- Madrid (Octuber 2012) ILAF organiza el día de la interoperabilidad en JIIDE 2012 (Feria de Madrid). Más información aquí.
+- Lisboa (Noviembre 2014) ILAF organiza el día de la interoperabilidad en Novembre en JIIDE 2014 (Lisboa). Más información [aquí](activities/interoperabilityDay/interoperabilityDayMeetingILAFLisboa2014.md).
+- Madrid (Octuber 2012) ILAF organiza el día de la interoperabilidad en JIIDE 2012 (Feria de Madrid). Más información [aquí](activities/interoperabilityDay/interoperabilitiyDayMadrid2012.md).
 - Barcelona (Marzo 2011) ILAF organiza el día de la interoperabilidad en GlobalGEO 2011 el dia 17 de Marzo de 2011 en Palacio 6 de Fira de Barcelona. Recinto de Montjuïc. Más información aquí. Presentación aquí
 
 #### Reuniones
@@ -49,7 +47,7 @@ NUEVO: [Sesión ILAF](activities/meeting/MeetingILAFNovember2025.md), el jueves 
 - Lisboa 2017: Septiembre durante las JIIDE (Lisboa). Más información aquí.
 - Barcelona 2016: Septiembre durante las JIIDE y INSPIRE 2016 (Barcelona). Más información aquí.
 - Barcelona (Marzo 2015) Primera reunión de 2015 del TC OGC en Barcelona junto con el día de la interoperabilidad. Más información [aquí](activities/meeting/TCMeetingOGCMarch2015.md)
-- Lisboa (Noviembre 2014) junto con el día de la interoperabilidad. Más información aquí
+- Lisboa (Noviembre 2014) junto con el día de la interoperabilidad. Más información [aquí](activities/interoperabilityDay/interoperabilityDayMeetingILAFLisboa2014.md)
 - Toledo 2013 (JIIDE)
 - Madrid (Octuber 2012) junto con el día de la interoperabilidad. Más información aquí
 - Barcelona (Marzo 2011) junto con el día de la interoperabilidad. Más información aquí
