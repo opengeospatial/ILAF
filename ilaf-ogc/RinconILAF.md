@@ -27,6 +27,7 @@ Leer las siguientes ediciones del Rincón de ILAF en http://external.opengeospat
 
 
 Se realizarón boletines del 2012 al 2017.
+
 ![ediciones](rinconILAF/edicionesRinconILAF.png)
 ![ediciones_2](rinconILAF/edicionesRinconILAF_2.png)
 ![ediciones_3](rinconILAF/edicionesRinconILAF_3.png)
