@@ -33,7 +33,8 @@ Vinculación con OGC	Ted Habermann, The HDF Group
 
 14:00h	Conclusión
 
-Acceso por teleconferència
+
+#### Acceso por teleconferència
 
 Instrucciones:
 https://global.gotomeeting.com/join/321982654
