@@ -35,5 +35,5 @@ Pausa
 
 #### Conclusiones y despedida. Joan Masó
 
-
+[Presentaciones](2022Madrid)
 También hay disponible la [grabación](https://www.youtube.com/watch?v=IU8rE3UrlMg) de la sesión.
