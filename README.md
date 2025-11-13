@@ -42,7 +42,7 @@ NUEVO: [Sesión ILAF](activities/meeting/MeetingILAFNovember2025.md), el jueves 
 - Mérida (Yucatán-México) durante el 132º OGC Member Meeting, Junio 2025. Más información [aquí](activities/meeting/MeetingILAFJune2025.md)
 - Reunión virtual. Octubre 2021. Más información [aquí](activities/meeting/MeetingILAFOctober2021.md)
 - Cáceres 2019: Octubre durante las JIIDE (Cáceres). Más información aquí.
- Menorca 2018: Octubre durante las JIIDE (Mallorca). Más información aquí.
+- Menorca 2018: Octubre durante las JIIDE (Mallorca). Más información aquí.
 - Lisboa 2017: Septiembre durante las JIIDE (Lisboa). Más información aquí.
 - Barcelona 2016: Septiembre durante las JIIDE y INSPIRE 2016 (Barcelona). Más información aquí.
 - Barcelona (Marzo 2015) Primera reunión de 2015 del TC OGC en Barcelona junto con el día de la interoperabilidad. Más información [aquí](activities/meeting/TCMeetingOGCMarch2015.md)
