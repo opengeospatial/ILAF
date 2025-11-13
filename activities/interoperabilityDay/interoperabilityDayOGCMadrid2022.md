@@ -5,8 +5,9 @@ Lugar y Fecha
 - Hotel Meliá Barajas Madrid
 - 17 de Junio de 2022
 
-More info about the venue and registration page
-Cómo registrarse
+[More info about the venue and registration page](https://portal.ogc.org/meet/)
+
+#### Cómo registrarse
 La "OGC Store" (https://store.ogc.org/) permite que cualquier persona se registre para el Día de la Interoperabilidad de la ILAF de forma gratuita. Deben crear una cuenta, verificarla e ir a "Workshop/Summit" y registrarse.
 "OGC Store" (https://store.ogc.org/) permite que qualquer pessoa se registre no dia da interoperabilidade do ILAF, de forma gratuita. Devem apenas criar uma conta, verificá-la e depois ir a "Workshop/Summit” para fazer o registo.
 
@@ -36,4 +37,5 @@ Pausa
 #### Conclusiones y despedida. Joan Masó
 
 [Presentaciones](2022Madrid)
+
 También hay disponible la [grabación](https://www.youtube.com/watch?v=IU8rE3UrlMg) de la sesión.
