@@ -26,3 +26,23 @@ Agenda
 |16:35-16:45  |Ronda de preguntas y comentarios  | |
 
 
+
+#### Así fue la sesión ILAF en el JIIDE202, Oviedo.
+
+https://agora.ogc.org/c/overview-iberian-and-latin-american-forum/success-of-the-ilaf-event-in-the-jiide2025-oviedo
+
+El evento ILAF en las JIIDE2025, ayer 13 de noviembre, tuvo una buena asistencia (considerando que había otras dos sesiones alternativas disponibles).
+
+Comenzamos con un “Bienvenidos a ILAF. API de OGG en el contexto de ILAF”. El mensaje era: ¿Qué significa que he implementado las funcionalidades de la API de OGC? Es necesario mencionar the *Parts*. ¡Conocemos nueve de ellas!
+
+En la “IDE Américas: Evaluación inteligente de la madurez geoespacial con servicios OGC (Ariel Anthieni [OSGeo / KAN Territory & IT]) vimos una herramienta para mostrar el estado de los catálogos de metadatos en América Latina y aprendimos sobre las actividades de la ONU para apoyar las iniciativas geoespaciales latinoamericanas.
+![foto1](2025NovemberILAF/Foto1.png)
+
+![foto1](2025NovemberILAF/Foto2.png)
+
+En la ponencia «API OGC en IGN y CNIG» (Cecilia Poyatos Hernández [CNIG]) aprendimos sobre la evolución de los servicios del IGN (Instituto Nacional de Cartografía de España) desde *Web Services* hasta las *OGC API's*. En ocasiones se utiliza una interfaz; en otras, es necesaria una duplicación completa de los datos y el servicio.
+
+![foto1](2025NovemberILAF/Foto3.png)
+
+
+!Pronto estarán disponibles la presentaciones!
