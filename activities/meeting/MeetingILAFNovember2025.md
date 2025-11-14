@@ -26,8 +26,7 @@ Agenda
 |16:35-16:45  |Ronda de preguntas y comentarios  | |
 
 
-
-
+______
 
 #### Así fue la sesión ILAF en las JIIDE2025.
 
