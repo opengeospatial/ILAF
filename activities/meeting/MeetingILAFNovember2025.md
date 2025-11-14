@@ -30,7 +30,7 @@ ______
 
 #### Así fue la sesión ILAF en las JIIDE2025.
 
-OGC Agora post:[Success of the ILAF event in the JIIDE2025 in Oviedo](https://agora.ogc.org/c/overview-iberian-and-latin-american-forum/success-of-the-ilaf-event-in-the-jiide2025-oviedo-695da23c-18a3-4d18-84fa-3205275f164d) 
+**OGC Agora post**: [Success of the ILAF event in the JIIDE2025 in Oviedo](https://agora.ogc.org/c/overview-iberian-and-latin-american-forum/success-of-the-ilaf-event-in-the-jiide2025-oviedo-695da23c-18a3-4d18-84fa-3205275f164d) 
 
 El evento ILAF en las JIIDE2025, ayer 13 de noviembre, tuvo una buena asistencia (considerando que había otras dos sesiones alternativas disponibles).
 
