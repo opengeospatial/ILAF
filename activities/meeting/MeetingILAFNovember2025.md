@@ -29,7 +29,7 @@ Agenda
 
 
 
-#### Así fue la sesión ILAF en el JIIDE2025.
+#### Así fue la sesión ILAF en las JIIDE2025.
 
 https://agora.ogc.org/c/overview-iberian-and-latin-american-forum/success-of-the-ilaf-event-in-the-jiide2025-oviedo
 
