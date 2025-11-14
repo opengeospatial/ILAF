@@ -27,7 +27,9 @@ Agenda
 
 
 
-#### Así fue la sesión ILAF en el JIIDE202, Oviedo.
+
+
+#### Así fue la sesión ILAF en el JIIDE2025.
 
 https://agora.ogc.org/c/overview-iberian-and-latin-american-forum/success-of-the-ilaf-event-in-the-jiide2025-oviedo
 
