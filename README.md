@@ -18,7 +18,14 @@ Si eres miembro del OGC sigue este procedimiento:
 
 ### **Últimas noticias**
 
-NUEVO: [Sesión ILAF](activities/meeting/MeetingILAFNovember2025.md), el jueves 13 de noviembre en las [JIIDE 2025 (XVI edición)](https://www.jiide.org/web/portal/inicio), en Oviedo.
+NUEVO: :mega:
+
+-  twiki de ILAF desaparecerá en pocas semanas, nuevo espacio: https://github.com/opengeospatial/ilaf
+
+- Nueva lista de ILAF ilaf-l@llistes.uab.cat.  
+Para suscribirte en la nueva lista del forum, escribe a Joan Masó joan.maso@ieee.org o Imma Serra i.serra@creaf.uab.cat
+
+
 
 ### **Foro Iberico y LatinoAmericano (Iberian and Latin-American Forum ILAF)**
 
