@@ -20,10 +20,10 @@ Si eres miembro del OGC sigue este procedimiento:
 
 NUEVO: :mega:
 
--  twiki de ILAF desaparecerá en pocas semanas, nuevo espacio: https://github.com/opengeospatial/ilaf
+- :beetle:  twiki de ILAF desaparecerá en pocas semanas, nuevo espacio: https://github.com/opengeospatial/ilaf
 
-- Nueva lista de ILAF ilaf-l@llistes.uab.cat.  
-Para suscribirte en la nueva lista del forum, escribe a Joan Masó joan.maso@ieee.org o Imma Serra i.serra@creaf.uab.cat
+- :beetle:   Nueva lista de ILAF ilaf-l@llistes.uab.cat.  
+Para suscribirte en la nueva lista de correo, escribe a Joan Masó joan.maso@ieee.org o Imma Serra i.serra@creaf.uab.cat
 
 
 
