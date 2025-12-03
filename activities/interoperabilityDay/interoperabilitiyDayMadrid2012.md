@@ -24,3 +24,5 @@ Agenda:
 - Antonio Moya, David Tabernero, Carolina Moya (INCLAM S.A.): Interoperabilidad de datos hidrológicos con WaterML2 [ 0ppt] [ 0odp] [ 0pdf]
 - Joan Masó (CREAF): OWS Context: El nuevo estándar para vincular y compartir servicios OGC [ ppt]
 13:00-14:00 Reunión ILAF​ [ ppt]
+
+[Presentaciones](2012Madrid)
