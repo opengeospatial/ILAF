@@ -45,5 +45,4 @@ En la ponencia «API OGC en IGN y CNIG» (Cecilia Poyatos Hernández [CNIG]) apr
 
 ![foto1](2025NovemberILAF/Foto3.png)
 
-
-!Pronto estarán disponibles la presentaciones!
+Enlace a las presentaciones [2025Oviedo\Taller12.pdf]
