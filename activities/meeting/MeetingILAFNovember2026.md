@@ -7,17 +7,19 @@ El pr처ximo 12 de noviembre, en el marco de la XVII edici처n de las Jornadas Ib�
 Fecha: 12 de noviembre de 2025, a las 16:15 - 16:45 (GMT).   
 [Sesi처n](https://www.idee.es/resources/presentaciones/JIIDE26/Talleres/103_Ficha.pdf) 
 
-Lugar:  
-    
-    Hotel Vilar Oporto  
-    R. Arcediago Van Zeller, 50   
-    4050-621 - Porto  
-    [Mapa](https://www.dgterritorio.gov.pt/jiide2026/imgs/JIIDE-2026-mapa.jpg)
-    
+Lugar: 
 
-####Tema:  **Estado actual y la evoluci처n de las API del OGC** 
+Hotel Vilar Oporto  
+R. Arcediago Van Zeller, 50   
+4050-621 - Porto  
+[Mapa](https://www.dgterritorio.gov.pt/jiide2026/imgs/JIIDE-2026-mapa.jpg)
+    
+    
+<br> 
+
+#### Tema:   **Estado actual y la evoluci처n de las API del OGC** 
  
-Agenda
+Agenda (en preparaci처n)
 
 | Horario    | Presentaci처n    | Ponente   | 
 |--------------|--------------|--------------|
