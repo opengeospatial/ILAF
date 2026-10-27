@@ -2,7 +2,7 @@
 
 
 
-El próximo 12 de noviembre, en el marco de la XVII edición de las Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE) 2026, organizaremos una sesión del ILAF.  [Programa](https://www.jiide.org/en/web/portal/programa.) de las JIIDE.
+El próximo 12 de noviembre, en el marco de la XVII edición de las Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE) 2026, organizaremos una sesión del ILAF.  [Programa](https://www.dgterritorio.gov.pt/jiide2026/Programa.aspx) de las JIIDE.
 
 Fecha: 12 de noviembre de 2025, a las 16:15 - 16:45 (GMT).   
 [Sesión](https://www.idee.es/resources/presentaciones/JIIDE26/Talleres/103_Ficha.pdf) 
@@ -15,7 +15,6 @@ R. Arcediago Van Zeller, 50
 [Mapa](https://www.dgterritorio.gov.pt/jiide2026/imgs/JIIDE-2026-mapa.jpg)
     
     
-<br> 
 
 #### Tema:   **Estado actual y la evolución de las API del OGC** 
  
