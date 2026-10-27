@@ -20,7 +20,7 @@ Si eres miembro del OGC sigue este procedimiento:
 
 NUEVO: :mega:
 
- - :beetle: Abierta la participación como ponente en la sesión ILAF de las JIIDE 2026 (XVII edición).
+ - :beetle: **Abierta la participación como ponente** en la sesión ILAF de las JIIDE 2026 (XVII edición).
 Mas información [aquí](activities/meeting/MeetingILAFNovember2026.md)
 
 - :beetle:  twiki de ILAF desaparecerá en pocas semanas, nuevo espacio: https://github.com/opengeospatial/ilaf
