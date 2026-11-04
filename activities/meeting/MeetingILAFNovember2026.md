@@ -23,7 +23,7 @@ Agenda (en preparación)
 | Horario    | Presentación    | Ponente   | 
 |--------------|--------------|--------------|
 |16:15  | Bienvenida al ILAF. **OGC API’s dentro del contexto del ILAF**  |Joan Masó y Núria Julià [UAB-CREAF]|
-|  |  ||
+|16:25  | **Del dato al territorio: interoperabilidad OGC y software libre para la predicción hidrometeorológica**  |Ariel Anthieni [OSGeo/KAN Territory & IT]|
 | |  ||
 | |  ||
 | |  ||
