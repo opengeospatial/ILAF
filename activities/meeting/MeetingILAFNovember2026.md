@@ -2,10 +2,12 @@
 
 
 
-El próximo 12 de noviembre, en el marco de la XVII edición de las Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE) 2026, organizaremos una sesión del ILAF.  [Programa](https://www.dgterritorio.gov.pt/jiide2026/Programa.aspx) de las JIIDE.
+El próximo 12 de noviembre, en el marco de la XVII edición de las Jornadas Ibéricas de Infraestructuras de Datos Espaciales (JIIDE) 2026, organizaremos una sesión del ILAF.  [Programa](https://www.dgterritorio.gov.pt/jiide2026/Programa.aspx) de las JIIDE. 
 
-Fecha: 12 de noviembre de 2025, a las 16:15 - 16:45 (GMT).   
-[Sesión](https://www.idee.es/resources/presentaciones/JIIDE26/Talleres/103_Ficha.pdf) 
+Fecha: 12 de noviembre de 2025, a las 16:15 - 16:45 (GMT). [Sesión](https://www.idee.es/resources/presentaciones/JIIDE26/Talleres/103_Ficha.pdf)  
+
+Si no puedes asistir presencialmente, podrás seguir la sesión en directo vía streaming a través del siguiente canal de YouTube: [Sala Serralves](https://youtube.com/live/5qTIWXIZ7j4?feature=share)
+
 
 Lugar: 
 
@@ -24,7 +26,6 @@ Agenda (en preparación)
 |--------------|--------------|--------------|
 |16:15  | Bienvenida al ILAF. **OGC API’s dentro del contexto del ILAF**  |Joan Masó y Núria Julià [UAB-CREAF]|
 |16:25  | **Del dato al territorio: interoperabilidad OGC y software libre para la predicción hidrometeorológica**  |Ariel Anthieni [OSGeo/KAN Territory & IT]|
-| |  ||
 | |  ||
 | |  ||
 |  |Ronda de preguntas y comentarios  | |
