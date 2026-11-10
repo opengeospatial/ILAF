@@ -12,8 +12,7 @@ R. Arcediago Van Zeller, 50
 4050-621 - Porto  
 [Mapa](https://www.dgterritorio.gov.pt/jiide2026/imgs/JIIDE-2026-mapa.jpg)
     
-**Retransmisión en directo: **
-
+**Retransmisión en directo:**  
 Si no puedes asistir presencialmente, podrás seguir la sesión en directo a través del siguiente canal de YouTube: [Sala Serralves](https://youtube.com/live/5qTIWXIZ7j4?feature=share). 
     
 
