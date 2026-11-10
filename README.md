@@ -20,10 +20,11 @@ Si eres miembro del OGC sigue este procedimiento:
 
 NUEVO: :mega:
 
- - :beetle: **Abierta la participación como ponente** en la sesión ILAF de las JIIDE 2026 (XVII edición).
+ - :beetle: **Sesión ILAF en las JIIDE 2026 (XVII edición)** - 12 de Noviembre de 2026, de 16:15 a 16:45 h (GMT). 
 Mas información [aquí](activities/meeting/MeetingILAFNovember2026.md)
 
-- :beetle:  twiki de ILAF desaparecerá en pocas semanas, nuevo espacio: https://github.com/opengeospatial/ilaf
+- :beetle: Nuevo espacio de ILAF: https://github.com/opengeospatial/ilaf. 
+El espacio TWiki de ILAF dejará de ester disponible.
 
 - :beetle:   Nueva lista de ILAF ilaf-l@llistes.uab.cat.  
 Para suscribirte en la nueva lista de correo, escribe a Joan Masó joan.maso@ieee.org o Imma Serra i.serra@creaf.uab.cat
