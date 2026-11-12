@@ -18,16 +18,11 @@ Si no puedes asistir presencialmente, podrás seguir la sesión en directo a tra
 
 #### Tema:    **Estado actual y la evolución de las API de OGC** 
  
-Agenda 
+Agenda  
 
-| Horario    | Presentación    | Ponente   | 
-|--------------|--------------|--------------|
-|16:15  | Bienvenida al ILAF. **OGC APIs dentro del contexto del ILAF**  |Joan Masó y Núria Julià [UAB-CREAF]|
-|16:25  | **Del dato al territorio: interoperabilidad OGC y software libre para la predicción hidrometeorológica**  |Ariel Anthieni [OSGeo/KAN Territory & IT]|
-| |  ||
-| |  ||
-|  |Ronda de preguntas y comentarios  | |
-
-
-______
-
+| Presentación    | Ponente   | 
+|--------------|--------------|
+|**Bienvenida al OGC ILAF** |Joana Simões [OGC]| 
+|**OGC APIs dentro del contexto del ILAF** |Joan Masó y Núria Julià [UAB-CREAF]|
+|**Del dato al territorio: interoperabilidad OGC y software libre para la predicción hidrometeorológica**  |Ariel Anthieni [OSGeo/KAN Territory & IT]|
+|Preguntas y comentarios ||
