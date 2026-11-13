@@ -26,3 +26,10 @@ Agenda
 |**OGC APIs dentro del contexto del ILAF** |Joan Masó y Núria Julià [UAB-CREAF]|
 |**Del dato al territorio: interoperabilidad OGC y software libre para la predicción hidrometeorológica**  |Ariel Anthieni [OSGeo/KAN Territory & IT]|
 |Preguntas y comentarios ||
+
+
+
+
+  
+        
+Enlace a las [presentaciones](2026Oporto)  
