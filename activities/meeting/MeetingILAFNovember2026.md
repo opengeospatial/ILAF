@@ -31,5 +31,9 @@ Agenda
 
 
   
-        
+       
 Enlace a las [presentaciones](2026Oporto)  
+
+<img src="2026Oporto/Foto2.png" width="450">
+
+<img src="2026Oporto/Foto1.png" width="450">
